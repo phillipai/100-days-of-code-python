@@ -80,14 +80,6 @@ elif first == 'left':
     
     third = input("Now that you've made it to Treasure Island, you can dig or search the cave. \n Type Dig/Cave: ").lower()
     if third == "dig":
-      print('''
-       _                                     
-      | |                                    
-      | |_ _ __ ___  __ _ ___ _   _ _ __ ___ 
-      | __| '__/ _ \/ _` / __| | | | '__/ _ \
-      | |_| | |  __/ (_| \__ \ |_| | | |  __/
-      \__|_|  \___|\__,_|___/\__,_|_|  \___|
-                          ''')
       print("You've found the treasure, you win!")
     elif third == "cave":
       print('''
