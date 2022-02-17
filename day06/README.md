@@ -1,7 +1,5 @@
-# Instructions
+# Day 6 - Python Functions & Karel
 
-- Read this the code in main.py
-- Spot the problems 🐞.
-- Modify the code to fix the program.
+## Escaping the Maze
 
-Fix the code so that it works and passes the tests when you submit.
+![day06](https://user-images.githubusercontent.com/98851253/154312745-8abc5397-27b7-4a1d-b29c-3a1527280868.gif)
