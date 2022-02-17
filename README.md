@@ -1,4 +1,4 @@
-<h1 align="center">100 Days of Code: The Complete Python Pro Bootcamp for 2022 👨‍💻�
+<h1 align="center">100 Days of Code: The Complete Python Pro Bootcamp for 2022 👨‍💻🐍
 </h1>
 
 The purpose of this repo is to demonstrate the progress of my Python programming skills.
