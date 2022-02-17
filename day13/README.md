@@ -2,6 +2,6 @@
 
 ## Exercises
 
-- [Exercise 1](100-days-of-code-python/day13/Exercise 1 - Debugging Odd or Even at main · phillipai/100-days-of-code-python): Debugging Odd or Even
-- [Exercise 2](100-days-of-code-python/day13/Exercise 2 - Debugging Leap Year at main · phillipai/100-days-of-code-python): Debugging Leap Year
-- [Exercise 3](100-days-of-code-python/day13/Exercise 3 - Debugging FizzBuzz at main · phillipai/100-days-of-code-python): Debugging FizzBuzz
+- [Exercise 1](https://github.com/phillipai/100-days-of-code-python/tree/main/day13/Exercise%201%20-%20Debugging%20Odd%20or%20Even)
+- [Exercise 2](https://github.com/phillipai/100-days-of-code-python/tree/main/day13/Exercise%202%20-%20Debugging%20Leap%20Year)
+- [Exercise 3](https://github.com/phillipai/100-days-of-code-python/tree/main/day13/Exercise%203%20-%20Debugging%20FizzBuzz)
