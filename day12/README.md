@@ -1,4 +1,4 @@
-# Day 6 - Scope & Number Guessing Game
+# Day 12 - Scope & Number Guessing Game
 
 ## The Number Guessing Game
 
