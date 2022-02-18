@@ -24,6 +24,11 @@ I will be updating this repo as I go along with the Python Bootcamp.
 - [Day 13:](https://github.com/phillipai/100-days-of-code-python/tree/main/day13) Debugging: How to Find and Fix Errors in your Code
 - [Day 14:](https://github.com/phillipai/100-days-of-code-python/tree/main/day14) Higher Lower Game Project
 
+## 📚 Intermediate
+- [Day 15:](https://github.com/phillipai/100-days-of-code-python/tree/main/day15) Local Development Environment Setup & the Coffee Machine
+- [Day 16:](https://github.com/phillipai/100-days-of-code-python/tree/main/day16) Object Oriented Programming (OOP)
+- [Day 17:](https://github.com/phillipai/100-days-of-code-python/tree/main/day17) The Quiz Project & The Benefits of OOP
+
 ## ⚙ Tools and technologies covered:
 - Python 3
 - PyCharm, Jupyter Notebook, Google Colab
