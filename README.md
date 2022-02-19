@@ -28,6 +28,11 @@ I will be updating this repo as I go along with the Python Bootcamp.
 - [Day 15:](https://github.com/phillipai/100-days-of-code-python/tree/main/day15) Local Development Environment Setup & the Coffee Machine
 - [Day 16:](https://github.com/phillipai/100-days-of-code-python/tree/main/day16) Object Oriented Programming (OOP)
 - [Day 17:](https://github.com/phillipai/100-days-of-code-python/tree/main/day17) The Quiz Project & The Benefits of OOP
+- [Day 18:](https://github.com/phillipai/100-days-of-code-python/tree/main/day18) Turtle & the Graphical User Interface (GUI)
+- [Day 19:](https://github.com/phillipai/100-days-of-code-python/tree/main/day19) Instances, State and Higher Order Functions
+- [Day 20:](https://github.com/phillipai/100-days-of-code-python/tree/main/day20) Build the Snake Game Part 1: Animation & Coordinates
+- [Day 21:](https://github.com/phillipai/100-days-of-code-python/tree/main/day21) Build the Snake Game Part 2: Inheritance & List Slicing
+- [Day 22:](https://github.com/phillipai/100-days-of-code-python/tree/main/day22) Build Pong: The Famous Arcade Game
 
 ## ⚙ Tools and technologies covered:
 - Python 3
