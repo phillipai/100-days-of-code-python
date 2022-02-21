@@ -34,6 +34,7 @@ I will be updating this repo as I go along with the Python Bootcamp.
 - [Day 21:](https://github.com/phillipai/100-days-of-code-python/tree/main/day21) Build the Snake Game Part 2: Inheritance & List Slicing
 - [Day 22:](https://github.com/phillipai/100-days-of-code-python/tree/main/day22) Build Pong: The Famous Arcade Game
 - [Day 23:](https://github.com/phillipai/100-days-of-code-python/tree/main/day23) The Turtle Crossing Capstone Project
+- [Day 24:](https://github.com/phillipai/100-days-of-code-python/tree/main/day24) Files, Directories and Paths
 
 ## ⚙ Tools and technologies covered:
 - Python 3
