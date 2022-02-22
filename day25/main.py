@@ -26,11 +26,11 @@ while len(guessed_states) < 50:
         new_data = pandas.DataFrame(missing_states)
         new_data.to_csv("states_to_learn.csv")
         break
+        
     if answer in states_list:
         if answer not in guessed_states:
             guessed_states.append(answer)
             check_answer = data[data.state == answer]
             x_axis, y_axis = int(check_answer.x), int(check_answer.y)
-
             t.goto(x_axis, y_axis)
             t.write(f"{answer}")
