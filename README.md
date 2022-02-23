@@ -36,6 +36,7 @@ I will be updating this repo as I go along with the Python Bootcamp.
 - [Day 23:](https://github.com/phillipai/100-days-of-code-python/tree/main/day23) The Turtle Crossing Capstone Project
 - [Day 24:](https://github.com/phillipai/100-days-of-code-python/tree/main/day24) Files, Directories and Paths
 - [Day 25:](https://github.com/phillipai/100-days-of-code-python/tree/main/day25) Working with CSV Data and the Pandas Library
+- [Day 26:](https://github.com/phillipai/100-days-of-code-python/tree/main/day26) List Comprehension and the Nato Alphabet
 
 ## ⚙ Tools and technologies covered:
 - Python 3
