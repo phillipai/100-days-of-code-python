@@ -38,7 +38,7 @@ I will be updating this repo as I go along with the Python Bootcamp.
 - [Day 25:](https://github.com/phillipai/100-days-of-code-python/tree/main/day25) Working with CSV Data and the Pandas Library
 - [Day 26:](https://github.com/phillipai/100-days-of-code-python/tree/main/day26) List Comprehension and the Nato Alphabet
 
-## ⚙ Tools and technologies covered:
+## ⚙ Tools and Technologies Covered:
 - Python 3
 - PyCharm, Jupyter Notebook, Google Colab
 - Python Scripting and Automation
@@ -75,4 +75,3 @@ I will be updating this repo as I go along with the Python Bootcamp.
 - Authentication
 - Web Design
 - Deployment with GitHub Pages, Heroku and GUnicorn
-
