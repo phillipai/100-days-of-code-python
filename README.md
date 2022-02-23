@@ -1,7 +1,7 @@
 <h1 align="center">100 Days of Code: The Complete Python Pro Bootcamp for 2022 👨‍💻🐍
 </h1>
 
-![100-days-of-code](https://user-images.githubusercontent.com/98851253/155425038-7c10a27b-e523-444f-8bdd-9e9f2d6d9a94.gif)
+![100-days-of-code](https://user-images.githubusercontent.com/98851253/155425637-9ac7250e-52a3-429a-a679-ac619f5ff6ea.gif)
 The purpose of this repo is to demonstrate the progress of my Python programming skills.
 
 All projects are my personal code for the Udemy course: [100 Days of Code: The Complete Python Pro Bootcamp for 2022](https://www.udemy.com/course/100-days-of-code/)
