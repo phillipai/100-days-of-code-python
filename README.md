@@ -39,6 +39,7 @@ I will be updating this repo as I go along with the Python Bootcamp.
 - [Day 26:](https://github.com/phillipai/100-days-of-code-python/tree/main/day26) List Comprehension and the Nato Alphabet
 - [Day 27:](https://github.com/phillipai/100-days-of-code-python/tree/main/day27) Tkinter, *args, **kwargs and Creating GUI Programs
 - [Day 28:](https://github.com/phillipai/100-days-of-code-python/tree/main/day28) Tkinter, Dynamic Typing and the Pomodoro GUI Application
+- [Day 29:](https://github.com/phillipai/100-days-of-code-python/tree/main/day29) Building a Password Manager GUI App with Tkinter
 
 ## ⚙ Tools and Technologies Covered
 - Python 3
