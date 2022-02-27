@@ -43,6 +43,9 @@ I will be updating this repo as I go along with the Python Bootcamp.
 - [Day 30:](https://github.com/phillipai/100-days-of-code-python/tree/main/day30) Errors, Exceptions and JSON Data: Improving the Password Manager
 - [Day 31:](https://github.com/phillipai/100-days-of-code-python/tree/main/day31) Flash Card App Capstone Project
 
+## 👨‍💻 Intermediate+
+- [Day 32:](https://github.com/phillipai/100-days-of-code-python/tree/main/day32) Send Email (smtplib) & Manage Dates (datetime)
+
 ## ⚙ Tools and Technologies Covered
 - Python 3
 - PyCharm, Jupyter Notebook, Google Colab
