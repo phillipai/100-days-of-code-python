@@ -47,6 +47,7 @@ I will be updating this repo as I go along with the Python Bootcamp.
 - [Day 32:](https://github.com/phillipai/100-days-of-code-python/tree/main/day32) Send Email (smtplib) & Manage Dates (datetime) - Automated Birthday Wisher
 - [Day 33:](https://github.com/phillipai/100-days-of-code-python/tree/main/day33) API Endpoints & API Parameters - ISS Overhead Notifier
 - [Day 34:](https://github.com/phillipai/100-days-of-code-python/tree/main/day34) API Practice - Creating a GUI Quiz App
+- [Day 35:](https://github.com/phillipai/100-days-of-code-python/tree/main/day35) Keys, Authentication & Environment Variables - Telegram Rain Notifier
 
 ## ⚙ Tools and Technologies Covered
 - Python 3
