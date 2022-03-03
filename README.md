@@ -48,6 +48,7 @@ I will be updating this repo as I go along with the Python Bootcamp.
 - [Day 33:](https://github.com/phillipai/100-days-of-code-python/tree/main/day33) API Endpoints & API Parameters - ISS Overhead Notifier
 - [Day 34:](https://github.com/phillipai/100-days-of-code-python/tree/main/day34) API Practice - Creating a GUI Quiz App
 - [Day 35:](https://github.com/phillipai/100-days-of-code-python/tree/main/day35) Keys, Authentication & Environment Variables - Telegram Rain Notifier
+- [Day 36:](https://github.com/phillipai/100-days-of-code-python/tree/main/day36) Stock Trading News Alert Project
 
 ## ⚙ Tools and Technologies Covered
 - Python 3
