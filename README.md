@@ -51,6 +51,7 @@ I will be updating this repo as I go along with the Python Bootcamp.
 - [Day 36:](https://github.com/phillipai/100-days-of-code-python/tree/main/day36) Stock Trading News Alert Project
 - [Day 37:](https://github.com/phillipai/100-days-of-code-python/tree/main/day37) Habit Tracking Project: API Post Requests & Headers
 - [Day 38:](https://github.com/phillipai/100-days-of-code-python/tree/main/day38) Workout Tracking Using Google Sheets
+- [Day 39:](https://github.com/phillipai/100-days-of-code-python/tree/main/day39) Capstone Part 1: Flight Deal Finder
 
 ## ⚙ Tools and Technologies Covered
 - Python 3
