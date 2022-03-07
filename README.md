@@ -52,6 +52,7 @@ I will be updating this repo as I go along with the Python Bootcamp.
 - [Day 37:](https://github.com/phillipai/100-days-of-code-python/tree/main/day37) Habit Tracking Project: API Post Requests & Headers
 - [Day 38:](https://github.com/phillipai/100-days-of-code-python/tree/main/day38) Workout Tracking Using Google Sheets
 - [Day 39:](https://github.com/phillipai/100-days-of-code-python/tree/main/day39) Capstone Part 1: Flight Deal Finder
+- [Day 40:](https://github.com/phillipai/100-days-of-code-python/tree/main/day40) Capstone Part 2: Flight Club
 
 ## ⚙ Tools and Technologies Covered
 - Python 3
