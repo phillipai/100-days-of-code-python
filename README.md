@@ -54,6 +54,7 @@ I will be updating this repo as I go along with the Python Bootcamp.
 - [Day 39:](https://github.com/phillipai/100-days-of-code-python/tree/main/day39) Capstone Part 1: Flight Deal Finder
 - [Day 40:](https://github.com/phillipai/100-days-of-code-python/tree/main/day40) Capstone Part 2: Flight Club
 - [Day 41:](https://github.com/phillipai/100-days-of-code-python/tree/main/day41) Introduction to HTML
+- [Day 42:](https://github.com/phillipai/100-days-of-code-python/tree/main/day42) Intermediate HTML
 
 ## ⚙ Tools and Technologies Covered
 - Python 3
