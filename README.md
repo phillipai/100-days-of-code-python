@@ -55,6 +55,7 @@ I will be updating this repo as I go along with the Python Bootcamp.
 - [Day 40:](https://github.com/phillipai/100-days-of-code-python/tree/main/day40) Capstone Part 2: Flight Club
 - [Day 41:](https://github.com/phillipai/100-days-of-code-python/tree/main/day41) Introduction to HTML
 - [Day 42:](https://github.com/phillipai/100-days-of-code-python/tree/main/day42) Intermediate HTML
+- [Day 43:](https://github.com/phillipai/100-days-of-code-python/tree/main/day43) Introduction to CSS
 
 ## ⚙ Tools and Technologies Covered
 - Python 3
