@@ -56,6 +56,7 @@ I will be updating this repo as I go along with the Python Bootcamp.
 - [Day 41:](https://github.com/phillipai/100-days-of-code-python/tree/main/day41) Introduction to HTML
 - [Day 42:](https://github.com/phillipai/100-days-of-code-python/tree/main/day42) Intermediate HTML
 - [Day 43:](https://github.com/phillipai/100-days-of-code-python/tree/main/day43) Introduction to CSS
+- [Day 44:](https://github.com/phillipai/100-days-of-code-python/tree/main/day44) Intermediate CSS
 
 ## ⚙ Tools and Technologies Covered
 - Python 3
