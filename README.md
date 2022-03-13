@@ -57,6 +57,7 @@ I will be updating this repo as I go along with the Python Bootcamp.
 - [Day 42:](https://github.com/phillipai/100-days-of-code-python/tree/main/day42) Intermediate HTML
 - [Day 43:](https://github.com/phillipai/100-days-of-code-python/tree/main/day43) Introduction to CSS
 - [Day 44:](https://github.com/phillipai/100-days-of-code-python/tree/main/day44) Intermediate CSS
+- [Day 45:](https://github.com/phillipai/100-days-of-code-python/tree/main/day45) Web Scraping with Beautiful Soup
 
 ## ⚙ Tools and Technologies Covered
 - Python 3
