@@ -59,6 +59,7 @@ I will be updating this repo as I go along with the Python Bootcamp.
 - [Day 44:](https://github.com/phillipai/100-days-of-code-python/tree/main/day44) Intermediate CSS
 - [Day 45:](https://github.com/phillipai/100-days-of-code-python/tree/main/day45) Web Scraping with Beautiful Soup
 - [Day 46:](https://github.com/phillipai/100-days-of-code-python/tree/main/day46) Create a Spotify Playlist Using The Musical Time Machine
+- [Day 47:](https://github.com/phillipai/100-days-of-code-python/tree/main/day47) Create an Automated Amazon Price Tracker
 
 ## ⚙ Tools and Technologies Covered
 - Python 3
