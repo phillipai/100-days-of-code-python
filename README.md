@@ -62,6 +62,7 @@ I will be updating this repo as I go along with the Python Bootcamp.
 - [Day 47:](https://github.com/phillipai/100-days-of-code-python/tree/main/day47) Create an Automated Amazon Price Tracker
 - [Day 48:](https://github.com/phillipai/100-days-of-code-python/tree/main/day48) Selenium Webdriver Browser and Game Playing Bot
 - [Day 49:](https://github.com/phillipai/100-days-of-code-python/tree/main/day49) Automating Job Applications on LinkedIn
+- [Day 50:](https://github.com/phillipai/100-days-of-code-python/tree/main/day50) Auto Tinder Swiping Bot
 
 ## ⚙ Tools and Technologies Covered
 - Python 3
