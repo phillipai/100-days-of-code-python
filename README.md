@@ -64,6 +64,7 @@ I will be updating this repo as I go along with the Python Bootcamp.
 - [Day 49:](https://github.com/phillipai/100-days-of-code-python/tree/main/day49) Automating Job Applications on LinkedIn
 - [Day 50:](https://github.com/phillipai/100-days-of-code-python/tree/main/day50) Auto Tinder Swiping Bot
 - [Day 51:](https://github.com/phillipai/100-days-of-code-python/tree/main/day51) Internet Speed Twitter Complaint Bot
+- [Day 52:](https://github.com/phillipai/100-days-of-code-python/tree/main/day52) Instagram Follower Bot
 
 ## ⚙ Tools and Technologies Covered
 - Python 3
