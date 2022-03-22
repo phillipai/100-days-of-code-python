@@ -68,6 +68,7 @@ I will be updating this repo as I go along with the Python Bootcamp.
 - [Day 53:](https://github.com/phillipai/100-days-of-code-python/tree/main/day53) Web Scraping Capstone - Data Entry Job Automation
 - [Day 54:](https://github.com/phillipai/100-days-of-code-python/tree/main/day54) Introduction to Web Development with Flask
 - [Day 55:](https://github.com/phillipai/100-days-of-code-python/tree/main/day55) HTML & URL Parsing in Flask and the Higher Lower Game
+- [Day 56:](https://github.com/phillipai/100-days-of-code-python/tree/main/day56) Rendering HTML/Static Files and Using Website Templates
 
 ## ⚙ Tools and Technologies Covered
 - Python 3
