@@ -69,6 +69,7 @@ I will be updating this repo as I go along with the Python Bootcamp.
 - [Day 54:](https://github.com/phillipai/100-days-of-code-python/tree/main/day54) Introduction to Web Development with Flask
 - [Day 55:](https://github.com/phillipai/100-days-of-code-python/tree/main/day55) HTML & URL Parsing in Flask and the Higher Lower Game
 - [Day 56:](https://github.com/phillipai/100-days-of-code-python/tree/main/day56) Rendering HTML/Static Files and Using Website Templates
+- [Day 57:](https://github.com/phillipai/100-days-of-code-python/tree/main/day57) Templating with Jinja in Flask Applications
 
 ## ⚙ Tools and Technologies Covered
 - Python 3
