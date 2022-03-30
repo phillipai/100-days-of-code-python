@@ -72,6 +72,9 @@ I will be updating this repo as I go along with the Python Bootcamp.
 - [Day 57:](https://github.com/phillipai/100-days-of-code-python/tree/main/day57) Templating with Jinja in Flask Applications
 - [Day 58:](https://github.com/phillipai/100-days-of-code-python/tree/main/day58) Web Foundation Boostrap
 
+## 🏆 Advanced
+- [Day 59:](https://github.com/phillipai/100-days-of-code-python/tree/main/day59) Blog Capstone Project Part 2 - Adding Styling
+
 ## ⚙ Tools and Technologies Covered
 - Python 3
 - PyCharm, Jupyter Notebook, Google Colab
