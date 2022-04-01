@@ -74,6 +74,7 @@ I will be updating this repo as I go along with the Python Bootcamp.
 
 ## 🏆 Advanced
 - [Day 59:](https://github.com/phillipai/100-days-of-code-python/tree/main/day59) Blog Capstone Project Part 2 - Adding Styling
+- [Day 60:](https://github.com/phillipai/100-days-of-code-python/tree/main/day60) Make POST Requests with Flask and HTML Forms
 
 ## ⚙ Tools and Technologies Covered
 - Python 3
