@@ -77,6 +77,7 @@ I will be updating this repo as I go along with the Python Bootcamp.
 - [Day 60:](https://github.com/phillipai/100-days-of-code-python/tree/main/day60) Make POST Requests with Flask and HTML Forms
 - [Day 61:](https://github.com/phillipai/100-days-of-code-python/tree/main/day61) Building Advanced Forms with Flask-WTForms
 - [Day 62:](https://github.com/phillipai/100-days-of-code-python/tree/main/day62) Flask, WTForms, Bootstrap, and CSV - Coffee & Wifi Project
+- [Day 63:](https://github.com/phillipai/100-days-of-code-python/tree/main/day63) Databases and with SQLite and SQLAlchemy
 
 ## ⚙ Tools and Technologies Covered
 - Python 3
