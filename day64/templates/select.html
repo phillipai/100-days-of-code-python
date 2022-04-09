@@ -1,0 +1,23 @@
+{% extends 'bootstrap/base.html' %}
+{% import "bootstrap/wtf.html" as wtf %}
+
+{% block styles %}
+{{ super() }}
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Nunito+Sans:300,400,700">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Poppins:300,400,700">
+<link rel="stylesheet" href="{{ url_for('static', filename='css/styles.css') }}">
+{% endblock %}
+
+{% block title %}Select Movie{% endblock %}
+
+{% block content %}
+<div class="container">
+    <h1 class="heading">Select Movie</h1>
+    {% for movie in options: %}
+    <p>
+        <a href="{{ url_for('find_movie', id=movie.id) }} ">{{ movie.title }} - {{movie.release_date}}</a>
+    </p>
+    {% endfor %}
+
+</div>
+{% endblock %}
