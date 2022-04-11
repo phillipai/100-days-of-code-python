@@ -79,6 +79,7 @@ I will be updating this repo as I go along with the Python Bootcamp.
 - [Day 62:](https://github.com/phillipai/100-days-of-code-python/tree/main/day62) Flask, WTForms, Bootstrap, and CSV - Coffee & Wifi Project
 - [Day 63:](https://github.com/phillipai/100-days-of-code-python/tree/main/day63) Databases and with SQLite and SQLAlchemy
 - [Day 64:](https://github.com/phillipai/100-days-of-code-python/tree/main/day64) My Top 10 Movies Website
+- [Day 65:](https://github.com/phillipai/100-days-of-code-python/tree/main/day65) How to Create a Website That People Will Love
 
 ## ⚙ Tools and Technologies Covered
 - Python 3
