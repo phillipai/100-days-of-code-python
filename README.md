@@ -80,6 +80,7 @@ I will be updating this repo as I go along with the Python Bootcamp.
 - [Day 63:](https://github.com/phillipai/100-days-of-code-python/tree/main/day63) Databases and with SQLite and SQLAlchemy
 - [Day 64:](https://github.com/phillipai/100-days-of-code-python/tree/main/day64) My Top 10 Movies Website
 - [Day 65:](https://github.com/phillipai/100-days-of-code-python/tree/main/day65) How to Create a Website That People Will Love
+- [Day 66:](https://github.com/phillipai/100-days-of-code-python/tree/main/day66) Building Your Own API with RESTful Routing
 
 ## ⚙ Tools and Technologies Covered
 - Python 3
