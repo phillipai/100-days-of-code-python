@@ -1,0 +1,51 @@
+{% include "header.html" %}
+
+  <!-- Page Header -->
+  <header class="masthead" style="background-image: url('https://images.unsplash.com/photo-1470092306007-055b6797ca72?ixlib=rb-1.2.1&auto=format&fit=crop&w=668&q=80')">
+    <div class="overlay"></div>
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-8 col-md-10 mx-auto">
+          <div class="site-heading">
+            <h1>Phillip's Blog</h1>
+            <span class="subheading">A collection of Phillip's random musings.</span>
+          </div>
+        </div>
+      </div>
+    </div>
+  </header>
+
+  <!-- Main Content -->
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-8 col-md-10 mx-auto">
+        {% for post in all_posts %}
+        <div class="post-preview">
+          <a href="{{ url_for('show_post', post_id=post.id) }}">
+            <h2 class="post-title">
+              {{post.title}}
+            </h2>
+            <h3 class="post-subtitle">
+              {{post.subtitle}}
+            </h3>
+          </a>
+          <p class="post-meta">Posted by
+            <a href="#">{{post.author}}</a>
+            on {{post.date}}
+            <a href="{{url_for('delete_post', post_id=post.id) }}">✘</a>
+          </p>
+        </div>
+        <hr>
+        {% endfor %}
+
+
+        <!-- New Post -->
+        <div class="clearfix">
+          <a class="btn btn-primary float-right" href="{{url_for('add_new_post')}}">Create New Post</a>
+        </div>
+      </div>
+    </div>
+  </div>
+  <hr>
+
+{% include "footer.html" %}
