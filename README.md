@@ -82,6 +82,7 @@ I will be updating this repo as I go along with the Python Bootcamp.
 - [Day 65:](https://github.com/phillipai/100-days-of-code-python/tree/main/day65) How to Create a Website That People Will Love
 - [Day 66:](https://github.com/phillipai/100-days-of-code-python/tree/main/day66) Building Your Own API with RESTful Routing
 - [Day 67:](https://github.com/phillipai/100-days-of-code-python/tree/main/day67) Blog Capstone Project Part 3 - RESTful Routing
+- [Day 68:](https://github.com/phillipai/100-days-of-code-python/tree/main/day68) Authentication with Flask
 
 ## ⚙ Tools and Technologies Covered
 - Python 3
