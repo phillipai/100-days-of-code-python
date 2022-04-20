@@ -1,0 +1,64 @@
+{% extends 'bootstrap/base.html' %}
+{% import "bootstrap/wtf.html" as wtf %}
+
+{% block content %}
+{% include "header.html" %}
+
+  <!-- Page Header -->
+  <header class="masthead" style="background-image: url('{{post.img_url}}')">
+    <div class="overlay"></div>
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-8 col-md-10 mx-auto">
+          <div class="post-heading">
+            <h1>{{post.title}}</h1>
+            <h2 class="subheading">{{post.subtitle}}</h2>
+            <span class="meta">Posted by
+              {{post.author.name}}
+              on {{post.date}}</span>
+          </div>
+        </div>
+      </div>
+    </div>
+  </header>
+
+ <!-- Post Content -->
+  <article>
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-8 col-md-10 mx-auto">
+            {{ post.body|safe }}
+          <hr>
+          {% if current_user.id == 1 %}
+           <div class="clearfix">
+          <a class="btn btn-primary float-right" href="{{url_for('edit_post', post_id=post.id)}}">Edit Post</a>
+          </div>
+          {% endif %}
+
+
+<!--Comments Area -->
+
+            {{ ckeditor.load() }}
+            {{ ckeditor.config(name='comment_text') }}
+            {{ wtf.quick_form(form, novalidate=True, button_map={"submit": "primary"}) }}
+
+            <div class="col-lg-8 col-md-10 mx-auto comment">
+                {% for comment in post.comments: %}
+                <ul class="commentList">
+                    <li>
+                        <div class="commenterImage">
+                            <img src="{{ comment.comment_author.email | gravatar }}"/>
+                        </div>
+                        <div class="commentText">
+                            {{comment.text|safe}}
+                            <span class="date sub-text">{{comment.comment_author.name}}</span>
+
+                        </div>
+                    </li>
+                {% endfor %}
+                </ul>
+            </div>
+
+  <hr>
+{% include "footer.html" %}
+{% endblock %}
