@@ -84,6 +84,7 @@ I will be updating this repo as I go along with the Python Bootcamp.
 - [Day 67:](https://github.com/phillipai/100-days-of-code-python/tree/main/day67) Blog Capstone Project Part 3 - RESTful Routing
 - [Day 68:](https://github.com/phillipai/100-days-of-code-python/tree/main/day68) Authentication with Flask
 - [Day 69:](https://github.com/phillipai/100-days-of-code-python/tree/main/day69) Blog Capstone Project Part 4 - Adding Users
+- [Day 70:](https://github.com/phillipai/100-days-of-code-python/tree/main/day70) Deploying Your Web Application with Heroku
 
 ## ⚙ Tools and Technologies Covered
 - Python 3
