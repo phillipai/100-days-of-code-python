@@ -86,6 +86,7 @@ I will be updating this repo as I go along with the Python Bootcamp.
 - [Day 69:](https://github.com/phillipai/100-days-of-code-python/tree/main/day69) Blog Capstone Project Part 4 - Adding Users
 - [Day 70:](https://github.com/phillipai/100-days-of-code-python/tree/main/day70) Deploying Your Web Application with Heroku
 - [Day 71:](https://github.com/phillipai/100-days-of-code-python/tree/main/day71) Data Exploration with Pandas: College Major vs. Your Salary
+- [Day 72:](https://github.com/phillipai/100-days-of-code-python/tree/main/day72) Data Visualisation with Matplotlib: Programming Languages
 
 ## ⚙ Tools and Technologies Covered
 - Python 3
