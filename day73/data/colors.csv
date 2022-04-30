@@ -1,0 +1,136 @@
+id,name,rgb,is_trans
+-1,Unknown,0033B2,f
+0,Black,05131D,f
+1,Blue,0055BF,f
+2,Green,237841,f
+3,Dark Turquoise,008F9B,f
+4,Red,C91A09,f
+5,Dark Pink,C870A0,f
+6,Brown,583927,f
+7,Light Gray,9BA19D,f
+8,Dark Gray,6D6E5C,f
+9,Light Blue,B4D2E3,f
+10,Bright Green,4B9F4A,f
+11,Light Turquoise,55A5AF,f
+12,Salmon,F2705E,f
+13,Pink,FC97AC,f
+14,Yellow,F2CD37,f
+15,White,FFFFFF,f
+17,Light Green,C2DAB8,f
+18,Light Yellow,FBE696,f
+19,Tan,E4CD9E,f
+20,Light Violet,C9CAE2,f
+21,Glow In Dark Opaque,D4D5C9,f
+22,Purple,81007B,f
+23,Dark Blue-Violet,2032B0,f
+25,Orange,FE8A18,f
+26,Magenta,923978,f
+27,Lime,BBE90B,f
+28,Dark Tan,958A73,f
+29,Bright Pink,E4ADC8,f
+30,Medium Lavender,AC78BA,f
+31,Lavender,E1D5ED,f
+32,Trans-Black IR Lens,635F52,t
+33,Trans-Dark Blue,0020A0,t
+34,Trans-Green,84B68D,t
+35,Trans-Bright Green,D9E4A7,t
+36,Trans-Red,C91A09,t
+40,Trans-Black,635F52,t
+41,Trans-Light Blue,AEEFEC,t
+42,Trans-Neon Green,F8F184,t
+43,Trans-Very Lt Blue,C1DFF0,t
+45,Trans-Dark Pink,DF6695,t
+46,Trans-Yellow,F5CD2F,t
+47,Trans-Clear,FCFCFC,t
+52,Trans-Purple,A5A5CB,t
+54,Trans-Neon Yellow,DAB000,t
+57,Trans-Neon Orange,FF800D,t
+60,Chrome Antique Brass,645A4C,f
+61,Chrome Blue,6C96BF,f
+62,Chrome Green,3CB371,f
+63,Chrome Pink,AA4D8E,f
+64,Chrome Black,1B2A34,f
+68,Very Light Orange,F3CF9B,f
+69,Light Purple,CD6298,f
+70,Reddish Brown,582A12,f
+71,Light Bluish Gray,A0A5A9,f
+72,Dark Bluish Gray,6C6E68,f
+73,Medium Blue,5A93DB,f
+74,Medium Green,73DCA1,f
+75,Speckle Black-Copper,000000,f
+76,Speckle DBGray-Silver,635F61,f
+77,Light Pink,FECCCF,f
+78,Light Flesh,F6D7B3,f
+79,Milky White,FFFFFF,f
+80,Metallic Silver,A5A9B4,f
+81,Metallic Green,899B5F,f
+82,Metallic Gold,DBAC34,f
+84,Medium Dark Flesh,CC702A,f
+85,Dark Purple,3F3691,f
+86,Dark Flesh,7C503A,f
+89,Royal Blue,4C61DB,f
+92,Flesh,D09168,f
+100,Light Salmon,FEBABD,f
+110,Violet,4354A3,f
+112,Blue-Violet,6874CA,f
+114,Glitter Trans-Dark Pink,DF6695,t
+115,Medium Lime,C7D23C,f
+117,Glitter Trans-Clear,FFFFFF,t
+118,Aqua,B3D7D1,f
+120,Light Lime,D9E4A7,f
+125,Light Orange,F9BA61,f
+129,Glitter Trans-Purple,A5A5CB,t
+132,Speckle Black-Silver,000000,f
+133,Speckle Black-Gold,000000,f
+134,Copper,AE7A59,f
+135,Pearl Light Gray,9CA3A8,f
+137,Metal Blue,7988A1,f
+142,Pearl Light Gold,DCBC81,f
+143,Trans-Medium Blue,CFE2F7,t
+148,Pearl Dark Gray,575857,f
+150,Pearl Very Light Gray,ABADAC,f
+151,Very Light Bluish Gray,E6E3E0,f
+158,Yellowish Green,DFEEA5,f
+178,Flat Dark Gold,B48455,f
+179,Flat Silver,898788,f
+182,Trans-Orange,F08F1C,t
+183,Pearl White,F2F3F2,f
+191,Bright Light Orange,F8BB3D,f
+212,Bright Light Blue,9FC3E9,f
+216,Rust,B31004,f
+226,Bright Light Yellow,FFF03A,f
+230,Trans-Pink,E4ADC8,t
+232,Sky Blue,7DBFDD,f
+236,Trans-Light Purple,96709F,t
+272,Dark Blue,0A3463,f
+288,Dark Green,184632,f
+294,Glow In Dark Trans,BDC6AD,t
+297,Pearl Gold,AA7F2E,f
+308,Dark Brown,352100,f
+313,Maersk Blue,3592C3,f
+320,Dark Red,720E0F,f
+321,Dark Azure,078BC9,f
+322,Medium Azure,36AEBF,f
+323,Light Aqua,ADC3C0,f
+326,Olive Green,9B9A5A,f
+334,Chrome Gold,BBA53D,f
+335,Sand Red,D67572,f
+351,Medium Dark Pink,F785B1,f
+366,Earth Orange,FA9C1C,f
+373,Sand Purple,845E84,f
+378,Sand Green,A0BCAC,f
+379,Sand Blue,6074A1,f
+383,Chrome Silver,E0E0E0,f
+450,Fabuland Brown,B67B50,f
+462,Medium Orange,FFA70B,f
+484,Dark Orange,A95500,f
+503,Very Light Gray,E6E3DA,f
+1000,Glow in Dark White,D9D9D9,f
+1001,Medium Violet,9391E4,f
+1002,Glitter Trans-Neon Green,C0F500,t
+1003,Glitter Trans-Light Blue,68BCC5,t
+1004,Trans Flame Yellowish Orange,FCB76D,t
+1005,Trans Fire Yellow,FBE890,t
+1006,Trans Light Royal Blue,B4D4F7,t
+1007,Reddish Lilac,8E5597,f
+9999,[No Color],05131D,f
