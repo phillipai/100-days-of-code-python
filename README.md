@@ -88,6 +88,7 @@ I will be updating this repo as I go along with the Python Bootcamp.
 - [Day 71:](https://github.com/phillipai/100-days-of-code-python/tree/main/day71) Data Exploration with Pandas: College Major vs. Your Salary
 - [Day 72:](https://github.com/phillipai/100-days-of-code-python/tree/main/day72) Data Visualisation with Matplotlib: Programming Languages
 - [Day 73:](https://github.com/phillipai/100-days-of-code-python/tree/main/day73) Aggregate & Marge Data with Pandas: Analyse the Lego Dataset
+- [Day 74:](https://github.com/phillipai/100-days-of-code-python/tree/main/day74) Google Trends Data: Resampling and Visualising Time Series
 
 ## ⚙ Tools and Technologies Covered
 - Python 3
