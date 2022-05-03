@@ -1,4 +1,4 @@
-# Day 73 - Google Trends Data: Resampling and Visualising Time Series
+# Day 74 - Google Trends Data: Resampling and Visualising Time Series
 ## Concepts Practised
 - Data Exploration - Making Sense of Google Search Data
 - Data Cleaning - Resampling Time Series Data
