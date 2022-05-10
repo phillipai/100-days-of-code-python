@@ -92,6 +92,7 @@ I will be updating this repo as I go along with the Python Bootcamp.
 - [Day 75:](https://github.com/phillipai/100-days-of-code-python/tree/main/day75) Beautiful Plotly Charts & Analysing the Android App Store
 - [Day 76:](https://github.com/phillipai/100-days-of-code-python/tree/main/day76) Computation with NumPy and N-Dimensional Arrays
 - [Day 77:](https://github.com/phillipai/100-days-of-code-python/tree/main/day77) Linear Regression and Data Visualisation with Seaborn
+- [Day 78:](https://github.com/phillipai/100-days-of-code-python/tree/main/day78) Analysing the Nobel Prize with Plotly, Matplotlib & Seaborn
 
 ## ⚙ Tools and Technologies Covered
 - Python 3
