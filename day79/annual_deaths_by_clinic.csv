@@ -1,0 +1,13 @@
+year,births,deaths,clinic
+1841,3036,237,clinic 1
+1842,3287,518,clinic 1
+1843,3060,274,clinic 1
+1844,3157,260,clinic 1
+1845,3492,241,clinic 1
+1846,4010,459,clinic 1
+1841,2442,86,clinic 2
+1842,2659,202,clinic 2
+1843,2739,164,clinic 2
+1844,2956,68,clinic 2
+1845,3241,66,clinic 2
+1846,3754,105,clinic 2
