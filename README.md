@@ -96,6 +96,9 @@ I will be updating this repo as I go along with the Python Bootcamp.
 - [Day 79:](https://github.com/phillipai/100-days-of-code-python/tree/main/day79) The Tragic Discovery of Handwashing: t-Tests & Distributions
 - [Day 80:](https://github.com/phillipai/100-days-of-code-python/tree/main/day80) Capstone Project - Predict House Prices
 
+## ⚔ Professional Portfolio Projects
+- [Day 81:](https://github.com/phillipai/100-days-of-code-python/tree/main/day81) Text to Morse Code Converter
+
 ## ⚙ Tools and Technologies Covered
 - Python 3
 - PyCharm, Jupyter Notebook, Google Colab
