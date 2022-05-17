@@ -98,6 +98,7 @@ I will be updating this repo as I go along with the Python Bootcamp.
 
 ## ⚔ Professional Portfolio Projects
 - [Day 81:](https://github.com/phillipai/100-days-of-code-python/tree/main/day81) Text to Morse Code Converter
+- [Day 82:](https://github.com/phillipai/100-days-of-code-python/tree/main/day82) Portfolio Website
 
 ## ⚙ Tools and Technologies Covered
 - Python 3
