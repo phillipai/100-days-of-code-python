@@ -1,0 +1,54 @@
+{% extends 'bootstrap/base.html' %}
+{% import "bootstrap/wtf.html" as wtf %}
+{% block styles %}
+{{ super() }}
+<link rel="stylesheet" href="{{url_for('static', filename='css/style.css')}}">
+{% endblock %}
+
+{% block title %}Restaurants{% endblock %}
+
+{% block content %}
+
+<div class="container">
+    <div class="row">
+        <div class="col-sm-12">
+            <h1>Cafes</h1>
+            {{ wtf.quick_form(form, novalidate=True) }}
+            <table class="table">
+                <thead>
+                <td>ID</td>
+                <td>Name</td>
+                <td>Map Link</td>
+                <td>Image Link</td>
+                <td>Location</td>
+                <td>Sockets</td>
+                <td>Toilet</td>
+                <td>WIFI</td>
+                <td>Calls</td>
+                <td>Seats</td>
+                <td>Coffee Price</td>
+                </thead>
+                {% for cafe in cafes: %}
+                <tr>
+                    <td>{{ cafe.id }}</td>
+                    <td>{{ cafe.name }}</td>
+                    <td><a href="{{ cafe.map_url }}">Maps Link</a></td>
+                    <td><a href="{{ cafe.img_url }}">Image Link</a></td>
+                    <td>{{ cafe.location }}</td>
+                    <td>{{ '✅' if cafe.has_sockets else '❌'}}</td>
+                    <td>{{ '✅' if cafe.has_toilet else '❌' }}</td>
+                    <td>{{ '✅' if cafe.has_wifi else '❌' }}</td>
+                    <td>{{ '✅' if cafe.can_take_calls else '❌' }}</td>
+                    <td>{{ cafe.seats }}</td>
+                    <td>{{ cafe.coffee_price }}</td>
+                </tr>
+                {% endfor %}
+            </table>
+
+            <p><a href="{{ url_for('home') }}">Return to index page</a></p>
+
+        </div>
+    </div>
+</div>
+
+{% endblock %}
