@@ -102,6 +102,7 @@ I will be updating this repo as I go along with the Python Bootcamp.
 - [Day 83:](https://github.com/phillipai/100-days-of-code-python/tree/main/day83) Tic Tac Toe
 - [Day 84:](https://github.com/phillipai/100-days-of-code-python/tree/main/day84) Image Watermarking Desktop App
 - [Day 85:](https://github.com/phillipai/100-days-of-code-python/tree/main/day85) Typing Speed Test App
+- [Day 86:](https://github.com/phillipai/100-days-of-code-python/tree/main/day86) Build Breakout: The Famous Arcade Game
 
 ## ⚙ Tools and Technologies Covered
 - Python 3
