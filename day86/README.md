@@ -1,4 +1,4 @@
-# Day 86 - Build Breakout: The Famous Arcade Game
+# Day 86 - Breakout: The Famous Arcade Game
 ## Concepts Practised
 - Create a Paddle that responds to Key Presses
 - Write the Ball Class and Make the Ball Move
