@@ -106,6 +106,7 @@ I will be updating this repo as I go along with the Python Bootcamp.
 - [Day 87:](https://github.com/phillipai/100-days-of-code-python/tree/main/day87) Cafe and Wifi Website
 - [Day 88:](https://github.com/phillipai/100-days-of-code-python/tree/main/day88) To Do Agenda App
 - [Day 89:](https://github.com/phillipai/100-days-of-code-python/tree/main/day89) Disappearing Text Writing App
+- [Day 90:](https://github.com/phillipai/100-days-of-code-python/tree/main/day90) Convert PDF to Audiobook
 
 ## ⚙ Tools and Technologies Covered
 - Python 3
