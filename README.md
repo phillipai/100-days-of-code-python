@@ -109,6 +109,7 @@ I will be updating this repo as I go along with the Python Bootcamp.
 - [Day 90:](https://github.com/phillipai/100-days-of-code-python/tree/main/day90) Convert PDF to Audiobook
 - [Day 91:](https://github.com/phillipai/100-days-of-code-python/tree/main/day91) Image to Color List
 - [Day 92:](https://github.com/phillipai/100-days-of-code-python/tree/main/day92) Amazon Canada Web Scraper
+- [Day 93:](https://github.com/phillipai/100-days-of-code-python/tree/main/day93) Google Dinosaur Game Bot
 
 ## ⚙ Tools and Technologies Covered
 - Python 3
