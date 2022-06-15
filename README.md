@@ -112,6 +112,7 @@ I will be updating this repo as I go along with the Python Bootcamp.
 - [Day 93:](https://github.com/phillipai/100-days-of-code-python/tree/main/day93) Google Dinosaur Game Bot
 - [Day 94:](https://github.com/phillipai/100-days-of-code-python/tree/main/day94) Space Invaders
 - [Day 95:](https://github.com/phillipai/100-days-of-code-python/tree/main/day95) Custom API
+- [Day 96:](https://github.com/phillipai/100-days-of-code-python/tree/main/day96) An Online Shop
 
 ## ⚙ Tools and Technologies Covered
 - Python 3
