@@ -115,6 +115,7 @@ I will be updating this repo as I go along with the Python Bootcamp.
 - [Day 96:](https://github.com/phillipai/100-days-of-code-python/tree/main/day96) An Online Shop
 - [Day 97:](https://github.com/phillipai/100-days-of-code-python/tree/main/day97) Percentage Calculator
 - [Day 98:](https://github.com/phillipai/100-days-of-code-python/tree/main/day98) Analyzing and Visualizing the Space Race
+- [Day 99:](https://github.com/phillipai/100-days-of-code-python/tree/main/day99) Analyzing Deaths Involving Police in the United States
 
 ## ⚙ Tools and Technologies Covered
 - Python 3
