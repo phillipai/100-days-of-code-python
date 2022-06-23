@@ -5,8 +5,6 @@
 
 All projects are my personal code for the Udemy course: [100 Days of Code: The Complete Python Pro Bootcamp](https://www.udemy.com/course/100-days-of-code/)
 
-I will be updating this repo as I go along with the Python Bootcamp.
-
 
 ## 🔰 Beginner 
 - [Day 1:](https://github.com/phillipai/100-days-of-code-python/tree/main/day01) Working with Variables in Python to Manage Data
