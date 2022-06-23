@@ -1,0 +1,123 @@
+Personal variables,Variable Type,Description
+FEMALE,D,"Sex of respondent (0 if male, 1 if female)"
+MALE,D,"Sex of respondent (1 if male, 0 if female)"
+,,
+Ethnicity:,,
+ETHBLACK,D,Black
+ETHHISP,D,Hispanic
+ETHWHITE,D,"Non-black, non-hispanic"
+,,
+AGE,C,Age in 2011
+BYEAR,C,Year of birth
+HEIGHT,C,"Height, in inches, in 2004"
+WEIGHT04,C,"Weight, in pounds, in 2004"
+WEIGHT11,C,"Weight, in pounds, in 2011"
+S,C,Years of schooling (highest grade completed as of 2011)
+,,
+Highest educational qualification:,,
+EDUCPROF,D,Professional degree
+EDUCPHD,D,Doctorate
+EDUCMAST,D,Master's degree
+EDUCBA,D,Bachelor's degree
+EDUCAA,D,Associate's (two-year college) degree
+EDUCHSD,D,High school diploma
+EDUCGED,D,General Educational Development certificate (HSD equivalence)
+EDUCDO,D,High school drop-out
+,,
+Marital status,,
+SINGLE,D,"Single, never married"
+MARRIED,D,"Married, spouse present"
+COHABIT,D,Cohabiting
+OTHSING,D,Other single
+,,
+Scaled score on a component of the ASVAB battery,,
+ASVABAR,C,Arithmetic reasoning
+ASVABWK,C,Word knowledge
+ASVABPC,C,Paragraph comprehension
+ASVABNO,C,Numerical operations (speed test)
+ASVABCS,C,Coding speed (speed test)
+ASVABC,C,"Composite of ASVABAR (with double weight), ASVABWK and ASVABPC"
+ASVABC4,C,"Composite of ASVABAR, ASVABWK, ASVABPC and math knowledge score"
+VERBAL,C,Composite of ASVABWK and ASVABPC
+ASVABMV,C,NLSY constructed math verbal composite
+,,
+Faith:,,
+FAITHN,D,None
+FAITHC,D,Catholic
+FAITHJ,D,Jewish
+FAITHP,D,Protestant
+FAITHO,D,Other
+FAITHM,D,Missing value
+,,
+Family background variables,,
+SM,C,Years of schooling of biological mother
+SF,C,Years of schooling of biological father
+SMR,C,Years of schooling of residential mother
+SFR,C,Years of schooling of residential father
+SIBLINGS,C,Number of siblings
+AGEMBTH,C,Age of mother at respondent’s birth
+,,
+"Household location, 1997",,
+MSA97NO,D,Not in metropolitan statistical area
+MSA97NCC,D,"MSA, not central city"
+MSA97CC,D,"MSA, central city"
+MSA97NK,D,"MSA, not known"
+RS97RURL,D,Rural
+RS97URBN,D,Urban
+RS97UNKN,D,Rural/urban unknown
+REG97NE,D,Census region North east
+REG97NC,D,Census region North central
+REG97W,D,Census region West
+REG97S,D,Census region South
+,,
+"Household structure, in terms of parents, 1997:",,
+HHBMBF,D,Biological mother and father
+HHBMOF,D,"Biological mother, other father"
+HHOMBF,D,"Other mother, biological father"
+HHBMONLY,D,Biological mother only
+HHBFONLY,D,Biological father only
+HHOTHER,D,Other
+,,
+Household income,,
+HHINC97,C,"Gross household income, $, in year prior to 1997 interview"
+POVRAT97,C,"Ratio of household income to poverty level, 1997"
+,,
+"Parental monitoring 1997 (scale of 0, low, to 16, high)",,
+PRMONM,C,Monitoring by mother
+PRMONF,C,Monitoring by father
+,,
+"Parental style 1997 (scale of 0, low, to 16, high)",,
+PRMSTYUN,D,"Mother, uninvolved"
+PRMSTYPE,D,"Mother, permissive"
+PRMSTYAU,D,"Mother, authoritarian"
+PRMSTYAE,D,"Mother, authoritative"
+PRFSTYUN,D,"Father, uninvolved"
+PRFSTYPE,D,"Father, permissive"
+PRFSTYAU,D,"Father, authoritarian"
+PRFSTYAE,D,"Father, authoritative"
+,,
+Work-related variables,,
+EARNINGS,C,Current hourly earnings in $ reported at the 2011 interview
+HOURS,C,"Usual number of hours worked per week, 2011 interview"
+TENURE,C,Tenure (years) with current employer at the 2011 interview
+EXP,C,Total out-of-school work experience (years) as of the 2011 interview.
+COLLBARG,D,"Pay set by collective bargaining, 2011"
+JOBS,C,"Number of jobs, as of 2011 interview"
+,,
+Category of employment,,
+CATGOV,D,Government
+CATPRI,D,Private sector
+CATSE,D,Self-employment
+CATNPO,D,Non=profit organization
+CATMIS,D,Missing value
+,,
+Living in 2011 in:,,
+MSA11NO,D,Not in metropolitan statistical area
+MSA11NCC,D,"MSA, not central city"
+MSA11CC,D,"MSA, central city"
+MSA11NK,D,"MSA, not known"
+URBAN,D,Living in an urban area
+REGNE,D,Census region North east
+REGNC,D,Census region North central
+REGW,D,Census region West
+REGS,D,Census region South
