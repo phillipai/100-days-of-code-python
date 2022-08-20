@@ -1,6 +1,6 @@
 #Using the 100 days of code and Humble bundle books to get back intot he swing of pyhton
 
-#Day 1
+#Chapter 1
 #print('hello world')
 
 #Common Math Operators
