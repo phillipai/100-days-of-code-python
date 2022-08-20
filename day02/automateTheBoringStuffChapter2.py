@@ -1,1 +1,1 @@
-print('hello world')
+print('Automate the Boring Stuff Chapter 2')

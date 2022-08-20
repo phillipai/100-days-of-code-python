@@ -1,7 +1,7 @@
 #Using the 100 days of code and Humble bundle books to get back intot he swing of pyhton
 
 #Chapter 1
-#print('hello world')
+print('Automate the Boring Stuff Chapter 1')
 
 #Common Math Operators
 # Operator  Operation                               Example       Evaluates to . . .
