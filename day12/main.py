@@ -8,9 +8,13 @@ def guess_the_number():
   print("Welcome to: ")
   print(logo)
   # print(f"The number is {guess_this}")
-  print("I'm thinking of a number between 1 and 100, try to guess it")
-  difficulty = input("Choose a difficulty. Type 'easy' or 'hard': ")
+  
+  difficulty = input("Choose a difficulty. Type 'easy', 'medium' or 'hard': ")
+  print("\nI'm thinking of a number between 1 and 100, try to guess it")
+
   if difficulty == 'easy':
+    guesses = 15
+  elif difficulty == 'medium':
     guesses = 10
   elif difficulty == 'hard':
     guesses = 5
