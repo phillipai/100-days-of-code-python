@@ -2,8 +2,15 @@ from tkinter import *
 
 
 def miles_to_km():
-    calc_num = float(num_miles.get()) * 1.609
-    answer_label.config(text=round(calc_num, 2))
+    miles = num_miles.get()
+    if miles == '':
+        answer_label.config(text="Please enter a value")
+    else:
+        try:
+            calc_num = float(miles) * 1.609
+            answer_label.config(text=round(calc_num, 2))
+        except ValueError:
+            answer_label.config(text="Invalid input")
 
 
 window = Tk()
